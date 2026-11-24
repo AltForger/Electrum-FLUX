@@ -1,0 +1,14 @@
+.venv/
+.tools/
+build/
+dist/
+__pycache__/
+*.py[cod]
+*.log
+*.exe
+*.dll
+*.fluxwallet
+Electrum-FLUX-data/
+wallets/
+qt-settings.ini
+*.flux-lock
